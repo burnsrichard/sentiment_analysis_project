@@ -7,6 +7,7 @@ For contact or access to data, please reach out to Erik at erik.flaten@gmail.com
 
 ## Data Collection
 Collecting the data by running the provided python notebook, "simple-twitter-to-db-streamer" is easily run on a local machine. 
+"twitter_stream_and_score_example" is an example of how you could keep track of a sentiment score in realtime, as it happens on the twitter stream.
 
 ## Data Analytics
 Due to the high volume of tweets, to effectively run functions and data anaylsis on the data, cloud computing through a cloudlab project is reccomended. In order to do this you need a cloudlab account and the ability to set up your your own docker-spark-cluster. 
